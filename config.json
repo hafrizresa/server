@@ -1,0 +1,10 @@
+{
+    "PORT": 3000,
+    "DB_HOST": "18.140.67.82",
+    "DB_PORT": "8976",
+    "DB_NAME": "kriya_test",
+    "DB_USER": "test",
+    "DB_PASS": "kriyatest123",
+    "DB_DIALECT": "postgres",
+    "SECRET": "SECRET"
+}
